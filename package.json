@@ -1,0 +1,23 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "this is just a toy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mickelsonm/node-api-example"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Matt Mickelson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
