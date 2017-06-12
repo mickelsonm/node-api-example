@@ -1,13 +1,13 @@
 # node-api-example
 Just a toy node api
 
-# How do I run?
+### How do I run?
 
 ```node
   node index.js
 ```
 
-# How do I see it in action?
+### How do I see it in action?
 
 Navigate to a web browser and put in the following URL(s):
 
@@ -17,6 +17,6 @@ Navigate to a web browser and put in the following URL(s):
 
 > Note: The api must be running to see what these do!
 
-# What license is used?
+### What license is used?
 
 Licensed under MIT at this time.
